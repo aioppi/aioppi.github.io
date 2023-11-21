@@ -42,21 +42,15 @@ main {
     padding: 40px;
 }
 
-nav {
-    text-align: center; /* Centraliza os itens da lista na navegação */
-}
-
 nav ul {
     list-style: none;
     padding: 0;
-    display: inline-block; /* Permite centralizar os itens */
 }
 
 nav ul li {
     display: inline;
     margin-right: 20px;
 }
-
 
 a {
     text-decoration: none;
