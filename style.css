@@ -8,7 +8,7 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    height: 300vh; /* Defina uma altura adequada para a rolagem contínua */
+    height: 300vh; 
     transition: background-position 10s;
     animation: slideBackground 30s linear infinite;
 }
@@ -60,9 +60,6 @@ a {
     text-align: center;
 }
 
-
-
-/* Estilos específicos para as seções de oportunidades de emprego e treinamentos */
 h2 {
     font-size: 24px;
     margin-bottom: 20px;
