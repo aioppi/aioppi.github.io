@@ -57,18 +57,7 @@ a {
     color: white;
 }
 
-/* Estilos específicos para a seção de destaque */
-#destaque {
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 40px;
-    text-align: center;
-    color: white;
-}
 
-.texto-destaque {
-    background-color: rgba(0, 0, 0, 0.5);
-    padding: 40px;
-}
 
 /* Estilos específicos para as seções de oportunidades de emprego e treinamentos */
 h2 {
